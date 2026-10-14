@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <circle cx="24" cy="24" r="22" fill="#1F5B3A" />
+  <!-- Sprout / Leaves -->
+  <path d="M24 36V22" stroke="#D8E9A8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 24C24 16 33 13 36 15C37 23 29 26 24 26" fill="#D8E9A8" stroke="#D8E9A8" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M24 28C24 21 16 18 13 20C12 27 19 30 24 30" fill="#A8D685" stroke="#A8D685" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="24" cy="14" r="2.5" fill="#D8E9A8" />
+</svg>
